@@ -2,16 +2,17 @@
 Train all the machine learning models using sample dataset in R language on R-Studio:
 
 Models:
-1)Linear
-2)
-3)
-4)
-5)
-6)
-7)
-8)
-9)
-10)
+
+1.Linear
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 Commands to train the respective model have been listed sequentially with necessary information of its use and function is given
 
