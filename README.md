@@ -1,8 +1,8 @@
 # Pattern-Recognition-in-R
+
 Train all the machine learning models using sample dataset in R language on R-Studio:
 
 Models:
-
 1.Linear
 2.
 3.
