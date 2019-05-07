@@ -1,4 +1,4 @@
-# Pattern-Recognition-in-R
+# Pattern Recognition in R
 
 Trained all the machine learning models using sample dataset in R language on R-Studio:
 
